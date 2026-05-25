@@ -1,5 +1,5 @@
 # 💫 About Me:
-WEB Developer
+FULL STACK PHP Developer
 
 
 ## 🌐 Socials:
